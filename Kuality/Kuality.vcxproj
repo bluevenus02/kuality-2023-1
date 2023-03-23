@@ -24,7 +24,7 @@
     <ProjectGuid>{336a6731-b7b4-4a44-87a5-5deaf562643a}</ProjectGuid>
     <RootNamespace>Kuality</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>week2</ProjectName>
+    <ProjectName>Week02</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
